@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @griffzn
 - 👀 I’m interested in creating projects and learning more about programming!
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Java, Python, HTML, CSS, & JavaScript
 - 📫 How to reach me ... by email, itzzhanz@gmail.com
 
 <!---
